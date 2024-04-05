@@ -1,5 +1,5 @@
 Name: Žydrūnė Kelpšaitė
-Interests: Data Analytics
+<br>Interests: Data Analytics</br>
 Learning: Product Analysis
 Collaboration: Open to various data analytics projects
 Contact: DM on LinkedIn
