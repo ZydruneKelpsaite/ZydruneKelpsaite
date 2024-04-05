@@ -1,4 +1,4 @@
-Name: Žydrūnė Kelpšaitė
+<br>Name: Žydrūnė Kelpšaitė</br>
 <br>Interests: Data Analytics</br>
 <br>Learning: Product Analysis</br>
 <br>Collaboration: Open to various data analytics projects</br>
