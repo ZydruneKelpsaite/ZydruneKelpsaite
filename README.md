@@ -1,5 +1,5 @@
 
-Data Analyst 📊 
+# Data Analyst 📊 
 
 <br>Bridging Tech and People for Smart Decisions 
 <br> SQL || Microsoft Excel || Tableau || Python || R || 
